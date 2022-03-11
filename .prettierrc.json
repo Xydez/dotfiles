@@ -1,0 +1,9 @@
+{
+	"arrowParens": "avoid",
+	"endOfLine": "crlf",
+	"tabWidth": 2,
+	"trailingComma": "none",
+	"useTabs": true,
+	"vueIndentScriptAndStyle": true,
+	"printWidth": 80
+}
